@@ -111,13 +111,10 @@ Hi, I'm Alejandra Roa!
 </p>
 <br/>
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:roa.alejandra02@gmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href=" https://">Fiverr</a> or <a href="https://www.linkedin.com/in/alejandra-roa-824a57258/">LinkedIn</a> to deploy your  project.
 
