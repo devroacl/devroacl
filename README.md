@@ -5,12 +5,7 @@ Hi, I'm Alejandra Roa!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/devroacl">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
-	</a>
-	<a href="h">
-		<img src="" alt="devroa" />
-	</a>
+
 </p>
 <br/>
 <p align="center">
