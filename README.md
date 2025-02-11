@@ -18,7 +18,6 @@ Hi, I'm Alejandra Roa!
 
 <pre>
 💻 I am a self taught Java Developer Trainee
-📚 I am studying in  Bachelors in Software Engineer  from DuocUC institution  
 :::I am studying in the career of programmer analyst for 2 years and a half. Then I will complete the engineering.:::
 📝 I have a strong interest in Back-end and the cloud
 🔭 Working on Python and Java languages 
