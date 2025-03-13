@@ -35,7 +35,7 @@ Hi, I'm Alejandra Roa!
 	<a href="https://www.linkedin.com/in/alejandra-roa-824a57258/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/devroacl"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	
-## 🛠️ My Favorite Tools
+
 
 ### 👨‍💻 Programming Languages
 
@@ -44,13 +44,6 @@ Hi, I'm Alejandra Roa!
     <a href="https://github.com/devroacl"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
-
-<p>
-    <a href=""><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href=""><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href=""><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href=""><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-</p>
 
 ### 🗄️ Databases and Cloud Hosting
 
@@ -61,18 +54,14 @@ Hi, I'm Alejandra Roa!
 ### 💻 Software and Tools
 
 <p>
-    <a href=""><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href=""><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href=""><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href=""><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href=""><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href=""><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href=""><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
 
 <!--
-### 👨🏽‍💻 Workspace
+
 <p>
     :::...:::....:::...::.:::.::...:
 </p>
@@ -97,18 +86,7 @@ Hi, I'm Alejandra Roa!
 </p>
 <br/>
 -->
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
 
-<p align="center">
-  .::..........::.:::.::::::.::.  Top languages.
-  I am editing all 
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
 
 
 ## Let's Work on Your Project Together!
