@@ -23,7 +23,7 @@ Hi, I'm Alejandra Roa!
 🔭 Working on Python and Java languages 
 🌱 Learning about programming logic  and It industry stuff
 🌟 Main languages: Python, Java
-  Future languages and : :::SQL Oracle databases::::
+	
 🚩 Interested in Back-end Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://" target="_blank">MY RESUME.</a>
 </pre>
@@ -36,16 +36,6 @@ Hi, I'm Alejandra Roa!
 	<a href="https://github.com/devroacl"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	
 
-
-### 👨‍💻 Programming Languages
-
-<p>
-    
-    <a href="https://github.com/devroacl"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-
-### 🧰 Frameworks and Libraries
-
-### 🗄️ Databases and Cloud Hosting
 
 <p>
   ...:::...:::.::.:..::::::.....:::..::::...::...:::....::::::::.:::.:.:...::::.:.
